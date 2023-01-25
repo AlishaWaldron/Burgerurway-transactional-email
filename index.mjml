@@ -1,0 +1,470 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>Burger Urway</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Roboto, sans serif">
+      <mj-section padding="0">
+    </mj-attributes>
+      <mj-preview>
+      </mj-preview>
+    <mj-style> *{ box-sizing: border-box; }  
+      
+    
+  
+    
+    </mj-style>
+
+    <mj-style inline="inline"> 
+    .link-color{
+      color: #063833; 
+    }  
+
+  
+   
+  
+    </mj-style>
+
+   
+
+  </mj-head>
+
+  <mj-body background-color="#dbdad6" > 
+      <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      Burger Urway Your Order Is Too Cool To Wait&nbsp;&nbsp;Track Your order
+      &nbsp;&nbsp;
+       We strive to work with high quality and local products whenever 
+         available.
+      </div>
+ 
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+      </div>
+      </mj-raw>
+  
+
+    <mj-section background-color="#2fab98" 
+    padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://i.postimg.cc/3Rj3MWKq/burgerurway.png"
+          alt="burger-logo"
+          width="120px"
+          padding-bottom="0"
+          padding="0"
+          align="center"
+        >
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2fab98" padding-bottom="30px">
+      <mj-column padding-bottom="0"  padding-top="0">
+        <mj-image
+          src="https://i.postimg.cc/W49pMD4C/burger-walking.png"
+          alt="burger-wearing-hoodie-suit"
+          width="200px"
+          align="center"
+        >
+        </mj-image>
+        <mj-text align="center" padding-bottom="15px"
+        font-size="30px"
+        color="#063833">
+        Your Order Is Too Cool To Wait
+        </mj-text>
+
+        <mj-text align="center" padding-bottom="15px"
+        font-size="15px" line-height="20px"
+        color="#063833">
+         We strive to work with high quality and local products whenever 
+         available. Our food and beverage menus change with the seasons.
+        </mj-text>
+
+        <mj-button text-transform="capitalize"
+        color="#063833"
+        font-weight="bold"
+        background-color="#ffffff"
+        href="https://burgerurway.com/"
+        border-radius="5px"
+        font-size="12px"
+        >Track Your Order</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" padding-top="40px"
+    padding-bottom="10px">
+   <mj-group>
+    <mj-column width="50%" >
+    <mj-text color="#063833" padding-bottom="20px"
+    padding-left="45px"
+    font-size="14px" 
+    font-weight="bold">
+    Where It's Going:
+    </mj-text>
+    <mj-text color="#063833" padding-bottom="0"
+   padding-left="45px"
+    font-weight="bold"
+    font-size="14px">
+    Jane Joe
+    </mj-text>
+
+    <mj-text line-height="20px"
+    padding-left="45px"
+    color="#2c766f" 
+    font-size="14px">
+    123 Patterson Road<br>
+    10011, New York<br>
+    718-123-4567
+    </mj-text>
+    </mj-column>
+
+    <mj-column width="50%">
+    <mj-text font-weight="bold"
+    color="#063833"
+    padding-bottom="20px" 
+    font-size="14px"
+    padding-left="45px">
+      Payment:
+    </mj-text>
+    <mj-text font-size="25px" 
+    color="#a23556"
+    padding-left="45px">
+          $104.96
+    </mj-text>
+
+    <mj-text color="#2c766f"
+    font-size="14px"
+    padding-bottom="0"  
+   padding-left="45px">
+          Visa Card
+    </mj-text>
+    <mj-text color="#2c766f"
+    font-size="14px"  
+    padding-left="45px">
+         **** **** **** **76
+    </mj-text>
+    </mj-column>
+   </mj-group>
+    </mj-section>
+
+
+     <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+
+     <mj-section background-color="#ffffff"padding-top="0">
+      <mj-column>
+        <mj-text
+         color="#063833"
+        padding-left="45px"
+        font-size="14px"
+       font-weight="bold"
+      
+       >
+        What Your Order Includes
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section  background-color="#ffffff" padding-top="0">
+    <mj-column width="45%">
+    <mj-image
+    src="https://i.postimg.cc/G2HLzc82/burger.png"
+    alt="burger-and-fries-on-table"
+    width="170px"
+    padding-left="40px" 
+    css-class="img-order"
+    align="left"
+   
+   
+    >
+    </mj-image>
+    </mj-column>
+
+
+    <mj-column width="40%">
+    <mj-text font-size="16px"  padding-left="5px"
+    color="#383b3d">
+    Fatty Burger x2
+    </mj-text>
+    <mj-text font-size="14px" padding-left="5px"
+    color="#6c7174" 
+    line-height="19px">
+    Seasoned half-pound American beef patty perfectly cooked to medium, 
+    topped with topped with melted cheese & spicy jalapenos American on a 
+    griddled bun. 
+    </mj-text>
+    </mj-column>
+
+    <mj-column width="15%">
+    <mj-text color="#6c7174" padding-left="5px" font-size="12px">
+    $39.99
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    
+
+    <mj-section  background-color="#ffffff" padding-top="0">
+    <mj-column width="45%">
+    <mj-image
+    src="https://i.postimg.cc/SN0S7byS/poke-special.png"
+    alt="buddha-bowl"
+    width="180px"
+    padding-left="40px" 
+    css-class="img-order"
+    align="left"
+    >
+    </mj-image>
+    </mj-column>
+
+
+    <mj-column  width="40%">
+    <mj-text font-size="16px"
+    color="#383b3d" padding-left="5px"
+    >
+    Poke Special x1
+    </mj-text>
+    <mj-text font-size="14px" padding-left="5px"
+    color="#6c7174" 
+    line-height="19px">
+    Tuna, salmon, yellowtail, crab salad, seaweed salad, sweet corn, cilantro, 
+    onion crisps, avacado and soy mustard.
+    </mj-text>
+    </mj-column>
+
+    <mj-column width="15%" >
+    <mj-text color="#6c7174" padding-left="5px" font-size="12px">
+    $25.99
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    
+
+    <mj-section  background-color="#ffffff" padding-top="0">
+    <mj-column width="45%">
+    <mj-image
+    src="https://i.postimg.cc/dt8q5N18/new-yorker-pizza.png"
+    alt="large-pizza"
+    width="180px"
+    padding-left="40px"
+    css-class="img-order"
+    align="left"
+    >
+    </mj-image>
+    </mj-column>
+
+
+    <mj-column width="40%">
+    <mj-text font-size="16px" padding-left="5px"
+    color="#383b3d"
+    >
+    New Yorker Pizza x1
+    </mj-text>
+    <mj-text font-size="14px" padding-left="5px"  
+    color="#6c7174"
+    line-height="19px">
+    Packed with Italian sausage, ham, bacon, seasoned pork and 
+    beef, this pizza is NOT messing around.
+
+    </mj-text>
+    </mj-column>
+
+    <mj-column width="15%">
+    <mj-text color="#6c7174" padding-left="5px">
+    $35.99
+    </mj-text>
+    </mj-column>
+
+    </mj-section>
+    
+    <mj-section background-color="#ffffff" 
+    padding-top="0">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+
+      <!--order total-->
+    <mj-section background-color="#ffffff" padding-top="20px"
+       padding-left="45px"
+      padding-bottom="0">
+      <mj-group>
+      <mj-column>
+        <mj-text color="#383b3d" font-size="15px" 
+        align="left"> Order Subtotal: </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-size="13px" color="#6c7174" > $101.97 </mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      background-color="#ffffff"
+      padding-top="0"
+      padding-left="45px"
+      padding-bottom="0"
+    ><mj-group>
+      <mj-column>
+        <mj-text color="#383b3d" font-size="15px"> Delivery: </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-size="13px" color="#6c7174" > Free </mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section
+      background-color="#ffffff"
+      padding-top="0"
+      padding-left="45px"
+      padding-bottom="0"
+    ><mj-group>
+      <mj-column>
+        <mj-text color="#383b3d" font-size="15px"> Tax: </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-size="13px" color="#6c7174" >$2.99 </mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      background-color="#ffffff"
+      padding-top="0"
+      padding-left="45px"
+      padding-bottom="0">
+    
+    <mj-group>
+      <mj-column>
+        <mj-text color="#383b3d" font-size="20px"> Order Total </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-size="20px" color="#a23556" > $104.96 </mj-text>
+        </mj-group>
+      </mj-column>
+    </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+      <mj-button background-color="#a23556"
+      border-radius="5px"
+      font-size="15px"
+      align="center"
+      href="https://burgerurway.com/">Download Invoice
+      </mj-button>
+      </mj-column>
+      </mj-section> 
+      
+      <mj-section background-color="#ffffff" 
+    padding-top="0">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+
+
+      <mj-section background-color="#2fab98" 
+    padding-top="30px" padding="28px" padding-bottom="0">
+      <mj-column background-color="#276c66" 
+      padding-top="20px" padding-bottom="10px">
+      <mj-image src="https://i.postimg.cc/ydtVbwcT/gold-coin.png"
+      alt="golden-coins"
+      width="250px">
+      </mj-image>
+      <mj-text color="#ffffff" align="center" 
+      font-size="25px" line-height="35px">
+      Order From Our Mobile App<br>
+      To Receive 20% Off Your Next Order 
+      </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2fab98" 
+    padding-top="0" padding="28px" padding-bottom="20px">
+    <mj-group>
+    <mj-column background-color="#276c66" padding-top="0"
+    padding-bottom="30px">
+    <mj-image src="https://i.postimg.cc/GhYpZhMT/app-store.png"
+    alt="app-store"
+    width="150px"
+    align="right"
+    href="https://burgerurway.com/">
+    </mj-image>
+   
+    </mj-column>
+    <mj-column background-color="#276c66" padding-top="0"
+    padding-bottom="30px">
+    <mj-image src="https://i.postimg.cc/sgr2yd86/google-play.png"
+    alt="google-play"
+    width="150px"
+    align="left"
+    href="https://burgerurway.com/">
+    </mj-image>
+    </mj-column> 
+    </mj-group>
+    </mj-section>
+
+
+    <mj-section background-color="#2fab98">
+    <mj-column>
+    <mj-text color="#063833" font-size="18px" font-weight="500">
+    Social Media
+    </mj-text>
+    <mj-text color="#063833" font-size="13px" font-weight="400"
+    line-height="18px">
+    Stay up-to-date with current activities and future events by 
+    following us on your favorite social media channels.
+    </mj-text>
+
+    <mj-social icon-size="35px" mode="horizontal" 
+    align="left" >
+          <mj-social-element name="facebook" href="https://www.facebook.com"
+          src="https://i.postimg.cc/3xFxxfQK/fb.png" alt="facebook-logo"
+          background-color="#2fab98" >
+            
+          </mj-social-element> 
+          <mj-social-element name="twitter" href="https://www.twitter.com"
+          src="https://i.postimg.cc/BZPZKnf7/tw.png" alt="twitter-logo"
+          background-color="#2fab98" >
+            
+          </mj-social-element>
+          <mj-social-element name="google" href="https://www.googleplus.com"
+          src="https://i.postimg.cc/g0ckXyG3/google-plus.png" alt="googleplus-logo"
+          background-color="#2fab98">
+           
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://instagram.com"
+          src="https://i.postimg.cc/HWFxZ7tC/instragram.png" alt="instagram-logo"
+          background-color="#2fab98">
+           
+          </mj-social-element>
+         
+        </mj-social>
+    </mj-column>
+
+    <mj-column>
+    <mj-text color="#063833" font-size="18px" font-weight="500">
+    Where To Find Us
+    </mj-text>
+    <mj-text color="#063833" font-size="14px" font-weight="400"
+    line-height="18px">
+    <a href="https://burgerurway.com/" class="link-color"> www.company.com</a> Company address here
+    +1 123 123 123
+    </mj-text>
+
+    <mj-text>
+    Changed your mind? <a href="https://burgerurway.com/" class="link-color"> Unsubscribe</a>
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
